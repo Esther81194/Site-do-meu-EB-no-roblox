@@ -1,0 +1,47 @@
+body{
+     background-color: rgb(17, 51, 17);
+}
+
+h1{
+    color: rgb(255, 0, 0);
+}
+
+p{
+    color: rgb(255, 86, 86, 0.904);
+}
+
+#verde{
+    color: rgb(59, 194, 59);
+}
+
+#vermelho{
+    color: red;
+}
+
+#amarelo{
+    color: yellow;
+}
+
+.warn{
+    color: rgb(23, 158, 102);
+}
+
+.script{
+    color:rgb(59, 194, 59) ;
+}
+
+#ant-pratica{
+    color: rgb(209, 2, 2);
+}
+
+#aviso{
+    color: rgb(59, 194, 59);;
+}
+
+#prática{
+    color: yellow;
+}
+
+#importante{
+    color: rgb(209, 2, 2);
+}
